@@ -1,0 +1,22 @@
+{
+  "name": "SGM Marketplace",
+  "short_name": "SGM Shop",
+  "description": "SGM Group automotive parts marketplace — Monrovia, Liberia",
+  "start_url": "/app",
+  "display": "standalone",
+  "background_color": "#0D1A38",
+  "theme_color": "#C0392B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/logo/sgm-logo-gear.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/logo/sgm-logo-gear.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
